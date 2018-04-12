@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "8.9.1",
+    "node": "9.10.1",
     "npm": "5.6.0"
   },
   "scripts": {
@@ -19,6 +19,7 @@
     "mongoose": "^5.0.14",
     "nodemon": "^1.17.3",
     "passport": "^0.4.0",
-    "passport-google-oauth20": "^1.0.0"
+    "passport-google-oauth20": "^1.0.0",
+    "production": "0.0.2"
   }
 }
